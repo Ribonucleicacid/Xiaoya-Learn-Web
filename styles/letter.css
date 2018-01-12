@@ -4,6 +4,7 @@ body {
 }
 
 .receiver-column {
+  font-style: italic;
   text-align: right;
 }
 
@@ -21,5 +22,9 @@ p,ul,ol,dl,address {
 
 p, li, dd, dt, address {
   line-height: 1.5;
+}
+
+p.italic {
+    font-style: italic;
 }
 
